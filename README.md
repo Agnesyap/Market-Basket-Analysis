@@ -1,4 +1,4 @@
-This is a Market Basket Analysis project by using association rules and apriori algorithm.
+This is a Market Basket Analysis project by using association rules and apriori algorithm. The project is aim to find out the itemsets that are frequently purchased together by consumers and utilise this insights to increase basket size and total sales eventually.
 
 Language: Python
 
